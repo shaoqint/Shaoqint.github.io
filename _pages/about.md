@@ -27,10 +27,14 @@ Expected 2026
 09/2016--07/2018  
 **Degree:** Bachelor of Science in Economics  
 
-**Sun Yat-sen University (SYSU), International Business School, GuangDong, China**  
+**Sun Yat-sen University (SYSU), International Business School, Guangdong, China**  
 09/2014--07/2018  
 **Degree:** Bachelor of Science in Economics
 
 ## RESEARCH INTERESTS  
 Open-source community, Automation, Digital platform, Human capital, International Business.
 
+## SKILLS AND LANGUAGES  
+
+**Computer Skills:** Python, R, MATLAB, Stata  
+**Language Skills:** Mandarin (native), Cantonese (native), English (fluent)  
