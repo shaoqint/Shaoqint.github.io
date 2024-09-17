@@ -22,14 +22,14 @@ repository               : "shaoqint/shaoqint.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_profile2.png"
+  avatar           : "shaoqin_tang_selfie.png"
   #name             : "<center>Pan Chen</center>"
   pronouns         : # example: "she/her"  
   bio              : " "
   location         : "Boulder, US"
   employer         : "U of Colorado at Boulder"
   uri              : # URL
-  email            : "pach8330@colorado.edu" 
+  email            : "Shaoqin.Tang@colorado.edu" 
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
