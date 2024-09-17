@@ -1,4 +1,4 @@
-Pan Chen's Page Structure
+Shaoqin Tang's Page Structure
 
 _config.yml
 
