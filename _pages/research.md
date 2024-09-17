@@ -30,7 +30,7 @@ Shaoqin Tang, Ethan Poskanzer, and Tony Tong. *“The Influence of Automation on
 
 Shaoqin Tang. *“Study on the influence of automation on human capital accumulation.”*
 
-Shaoqin Tang and Tony Tong. *“Study on the influence of algorithm on international knowledge collaboration.”*
+Shaoqin Tang, Shihao Zhou, Nianchen Han, Tony Tong. *“Study on the influence of algorithm on international knowledge collaboration.”*
 
 
 
