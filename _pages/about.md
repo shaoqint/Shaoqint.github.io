@@ -9,9 +9,9 @@ redirect_from:
 
 # About
 
-Hi! I’m Shaoqin Tang, a PhD candidate in Strategy at the University of Colorado Boulder. My research explores the intersection of technology and corporate strategy, with a focus on how firms leverage user communities, digital platforms, and automation technologies to create and capture value.
+Hello! I’m Shaoqin Tang, a PhD candidate in Strategy at the University of Colorado Boulder. My research sits at the crossroads of technology and corporate strategy, investigating how firms utilize user communities, digital platforms, and automation/AI technologies to drive value creation and capture.
 
-In my work, I investigate governance strategies that firms use to influence behaviors within open-source communities and digital platforms. Additionally, I examine how automation and AI technologies address frictions in the knowledge production process, enhancing knowledge sourcing and reshaping strategic opportunities for firms.
+I examine the governance strategies firms employ to shape behaviors within open-source communities and digital platforms. Additionally, my work explores how automation and AI can address frictions and enhance the efficiency of the knowledge production process.
 
 ## EDUCATION  
 
