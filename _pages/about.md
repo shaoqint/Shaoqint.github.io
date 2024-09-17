@@ -9,22 +9,28 @@ redirect_from:
 
 # About
 
-Hi! I'm Pan Chen, a PhD candidate in Economics at the University of Colorado Boulder. My main research interests lie in environmental and development economics, with secondary interests in economic history and political economy. 
+Hi! I’m Shaoqin Tang, a PhD candidate in Strategy at the University of Colorado Boulder. My research explores the intersection of technology and corporate strategy, with a focus on how firms leverage user communities, digital platforms, and automation technologies to create and capture value.
 
-**Email:** [*pan.chen@colorado.edu*](mailto:pach8330@colorado.edu)
+In my work, I investigate governance strategies that firms use to influence behaviors within open-source communities and digital platforms. Additionally, I examine how automation and AI technologies address frictions in the knowledge production process, enhancing knowledge sourcing and reshaping strategic opportunities for firms.
 
-## Education
-* Ph.D. in Economics, University of Colorado at Boulder, July 2021 - May 2026 (expected)
-* M.A. in Economics, University of Colorado at Boulder, July 2021 - May 2023
-* M.A. in Economics, Huazhong University of Sci. & Tech., Sep 2015 - June 2018
-* B.A. in Economics, Huazhong Agricultural University, Sep 2011 - June 2015 
+## EDUCATION  
 
-## Honors
-* Graduate Award for Public Policy Research, 2023
+**Leeds School of Business, University of Colorado Boulder, Colorado, US**  
+Expected 2026  
+**Degree:** Ph.D. in Strategy and Entrepreneurship  
 
-## Research Experience
-* Research Assistant
-  * Summer 2022 & 2024 @CU Boulder
-  * Reporting to Professor Carol Shiue
+**Duke University, North Carolina, US**  
+08/2018--05/2020  
+**Degree:** Master of Arts in Economics  
 
-## News and Updates
+**University of Birmingham, Birmingham, UK**  
+09/2016--07/2018  
+**Degree:** Bachelor of Science in Economics  
+
+**Sun Yat-sen University (SYSU), International Business School, Guangzhou, China**  
+09/2014--07/2018  
+**Degree:** Bachelor of Science in Economics
+
+## RESEARCH INTERESTS  
+Open-source community, Automation, Digital platform, Human capital, International Business.
+
