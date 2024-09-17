@@ -27,7 +27,7 @@ Expected 2026
 09/2016--07/2018  
 **Degree:** Bachelor of Science in Economics  
 
-**Sun Yat-sen University (SYSU), International Business School, Guangzhou, China**  
+**Sun Yat-sen University (SYSU), International Business School, GuangDong, China**  
 09/2014--07/2018  
 **Degree:** Bachelor of Science in Economics
 
