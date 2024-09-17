@@ -7,11 +7,31 @@ author_profile: true
 ---
 
 
-### Working Papers
+## REFEREED JOURNAL PAPERS  
 
-* “Industrialization and Pollution: The Long-term Impact of Early-Life Exposure on Human Capital Formation”, **Revision Requested at the *Journal of Public Economics*** 
+Liang Chen, Tony Tong, Shaoqin Tang, and Nianchen Han. 2022. *“Governance and Design of Digital Platforms: A Review and Future Research Directions on a Meta-Organization.”* **Journal of Management** 48(1): 147-184.
 
-* “Deciding to Engage: The Impact of Air Pollution on Digital Civic Engagement in China”
+## WORKING PAPERS  
+
+Shaoqin Tang, Zhiyi Wang, and Tony Tong. *“Motivating High-Quality Contribution in OSS Communities: The Role of Contributors’ Private Benefits.”*  
+- Revised and resubmit at **Strategic Management Journal**  
+- Winner, Best Paper Award, Knowledge & Innovation Interest Group, Strategic Management Society (2023)  
+- Finalist, Best PhD Paper Prize, Strategic Management Society (2023)
+<br/>
+
+Shihao Zhou, Daitian Li, Tony Tong, and Shaoqin Tang. *“Toward a Multi-Polar Multihoming World of Artificial Intelligence.”*  
+- 2nd revised and resubmit at **Journal of International Business Studies**
+<br/>
+
+Shaoqin Tang, Ethan Poskanzer, and Tony Tong. *“The Influence of Automation on Gender Bias in Knowledge Evaluations.”*  
+
+
+## WORK IN PROGRESS  
+
+Shaoqin Tang. *“Study on the influence of automation on human capital accumulation.”*
+
+Shaoqin Tang and Tony Tong. *“Study on the influence of algorithm on international knowledge collaboration.”*
+
 
 
 
